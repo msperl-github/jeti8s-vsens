@@ -1,5 +1,5 @@
 # jeti8s-vsens
-A cheap LiXX voltage sensor for Jeti-RC Telemetry <br>
+A cheap LiXX voltage sensor for Jeti-RC Telemetry using pre built parts with simple modifications <br>
 
 Pre-Work done: <br>
 --> Find datasheet of 3-Digit 7-Segment Display: http://www.xlitx.com/datasheet/3631BS.pdf <br>
