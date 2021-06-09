@@ -16,3 +16,5 @@ a)Write code to decode the 3-Digit 7-Segment Display on a Cheap ready-made LiPo 
 b)Write/fork code to convert the enlighted LEDs of the 7-Segment Display to characters <br>
 c)Merge with already done code from https://github.com/Sepp62 for Jeti Telemetry support <br>
 d)(optional) provide Interface for other telemetry systems as well <br>
+
+I'm doing this non-profit as a hobby project, so progress will not be very fast. Please understand. <br>
