@@ -1,6 +1,12 @@
 # jeti8s-vsens
 A cheap LiXX voltage sensor for Jeti-RC Telemetry using pre built parts with simple modifications <br>
 
+BOM: <br>
+--> BX100 LiXX-Checker (up to 8 Cells) <br>
+--> Arduino Nano or equivalent <br>
+--> Some wires <br>
+--> Solder equipment <br>
+
 Pre-Work done: <br>
 --> Find datasheet of 3-Digit 7-Segment Display: http://www.xlitx.com/datasheet/3631BS.pdf <br>
 --> Analyze Display Behaviour: -1- --> <Cell 1 Voltage> --> -2- <Cell 2 Voltage> --> ... <Total Pack Voltage> --> -1- --> (Repeat again and again)
