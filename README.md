@@ -3,7 +3,7 @@ A cheap LiXX voltage sensor for Jeti-RC Telemetry using pre built parts with sim
 
 BOM: <br>
 --> BX100 LiXX-Checker (up to 8 Cells) <br>
---> Arduino Nano or equivalent <br>
+--> Arduino Micro or equivalent (nano will not be sufficient because of one missing hardware interrupt) <br>
 --> Some wires <br>
 --> Solder equipment <br>
 
