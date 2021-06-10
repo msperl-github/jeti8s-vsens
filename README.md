@@ -9,7 +9,7 @@ BOM: <br>
 
 Pre-Work done: <br>
 --> Find datasheet of 3-Digit 7-Segment Display: http://www.xlitx.com/datasheet/3631BS.pdf <br>
---> Analyze Display Behaviour: -1- --> <Cell 1 Voltage> --> -2- <Cell 2 Voltage> --> ... <Total Pack Voltage> --> -1- --> (Repeat again and again)
+--> Analyze Display Behaviour: -1- -> (Cell 1 Voltage) -> -2- (Cell 2 Voltage) -> ...  ->(Total Pack Voltage) -> -1- -> (Repeat again and again)
 <br><br>
 ToDo (Next steps): <br>
 a)Write code to decode the 3-Digit 7-Segment Display on a Cheap ready-made LiPo Checker (known as BX-100) <br>
